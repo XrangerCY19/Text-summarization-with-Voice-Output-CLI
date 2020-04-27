@@ -20,6 +20,7 @@ python run.py -l 2 #To summarize in English
 python run.py -l 3 #To summarize in Hindi
 
 --------------------------
+Install requirements.txt
 
 Install cmdmp3 using the following link:
 http://www.mailsend-online.com/wp/cmdmp3new.zip
