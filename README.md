@@ -11,7 +11,7 @@ Uses Natural Language Toolkit
 
 Uses cmdmp3 to play voice
 
-----------HOW TO------------
+🏃🏃🏃🏃🏃🏃🏃HOW TO RUN?🏃🏃🏃🏃🏃🏃🏃
 ----------------------------
 python run.py -l 1 #To summarize in Malayalam
 
@@ -26,8 +26,5 @@ http://www.mailsend-online.com/wp/cmdmp3new.zip
 
 Download dataset from the below link:
 https://www.kaggle.com/terenceliu4444/glove6b100dtxt#glove.6B.100d.txt
-
-To run:
-python main.py
 
 Code modified from https://github.com/ArunaMokara/voice-based-text-summarization
